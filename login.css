@@ -1,0 +1,56 @@
+body{
+          margin:0%;
+          padding: 0%;
+          background-color: rgba(68, 255, 0, 0.652);
+          font-family: monospace;
+          background-image: url("new.jpg");
+          background-size: cover;
+}
+.login{
+          width: 350px;
+          margin: auto;
+          padding: 80px;
+          background-color: crimson;
+          border-radius: 25px;     
+}
+h2{
+          text-align: center;
+          color: white;
+          padding: 20px;
+}
+label{
+          color: black;
+          font-size: 20px;
+}
+#Username{
+          text-align: center;
+          padding-left: 50px;
+          width: 280px;
+          height: 25px;
+          border-radius: 25px;
+}
+#Pass{
+          text-align: center;
+          padding-left: 50px;
+          width: 280px;
+          height: 25px;
+          border-radius: 25px;     
+}
+#log{
+          border-radius: 10px;
+          padding-left: 10px;
+          color: white;
+          width: 100px;
+          height: 30px;
+          border-color: gold;
+          background-color: black;
+
+}
+span{
+          color: whitesmoke;
+          font-size: medium;
+}
+a{
+          float: right;
+          background-color: chartreuse;
+}
